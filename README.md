@@ -122,3 +122,14 @@ should be added so that each line in the return String has at most maxCharsPerLi
 characters. To determine where newlines should be added, try to fit as many words
 as possible on a line (while keeping line length at most maxCharsPerLine and
 satisfying the other requirements) before starting a new line.
+
+Question #4
+
+Return the first repeated Name
+
+Question #5
+Pacal's Triangle - optimal space complexity 
+
+Question #6
+A small frog wants to get to the other side of a river. The frog is currently located at position 0, and wants to get to position X. Leaves fall from a tree onto the surface of the river. You are given a non-empty zero-indexed array A consisting of N integers representing the falling leaves. A[K] represents the position where one leaf falls at time K, measured in minutes. The goal is to find the earliest time when the frog can jump to the other side of the river. The frog can cross only when leaves appear at every position across the river from 1 to X.
+
